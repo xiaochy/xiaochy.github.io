@@ -5,15 +5,17 @@
 - **[Jun.2024]** I was awarded by ShanghaiTech International Exchange Program Scholarship, received 100,000 RMB (≈13,700 USD).💰
 - **[Apr.2024]** One paper has been accepted by 2024 CVPR workshop.🌹
 
-### Research Experience
+## Research Experience
 - **[May.2024 - Sep.2024]** Developed a model-free reinforcement learning (RL) method to optimize traffic flow in intersections with varying topologies. Created a new benchmark for mixed traffic research.🚗
 - **[Jun.2024 - Jul.2024]** Trained image classification tasks using a Mixture of Experts (MoE) as a visual encoder for robotic manipulation tasks.🤖
 - **[Mar.2024 - Apr.2024]** Assessed current text-to-video models with a focus on their handling of temporal input data.⌚️
 - **[Apr.2023 - Jun.2023]** Built multi-modal dataloaders for training a human-position estimation model. Conducted parameter fitting for mesh models.
 
-### Pubilications
+## Pubilications
+### Optimizing Efficiency of Mixed Traffic through Reinforcement Learning: A Topology-Independent Approach and Benchmark
+[![Traffic Optimization](/assets/image/traffic.png)](https://sites.google.com/berkeley.edu/mixedtrafficplus/home)  
 
 
 
-### Course Projects
+## Course Projects
   
