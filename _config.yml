@@ -1,3 +1,10 @@
-title: Chuyang(Vera) Xiao
+title: Chuyang Xiao
 logo: /assets/image/personal_image.png
 theme: jekyll-theme-minimal
+# 自定义 CSS 样式文件
+sass:
+  style: compressed
+
+# 引入自定义的样式文件
+include:
+  - assets/css/style.scss

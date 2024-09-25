@@ -1,0 +1,11 @@
+---
+# YAML front matter
+---
+
+@import "jekyll-theme-minimal";
+
+// 自定义页面宽度
+.wrapper {
+  max-width: 1200px; // 将页面的最大宽度调整为你想要的值，比如1200px
+  margin: 0 auto;    // 居中对齐页面
+}
