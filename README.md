@@ -13,9 +13,16 @@
 
 ## Pubilications
 ### Optimizing Efficiency of Mixed Traffic through Reinforcement Learning: A Topology-Independent Approach and Benchmark
-[![Traffic Optimization](/assets/image/traffic.png)](https://sites.google.com/berkeley.edu/mixedtrafficplus/home)  
+[![Traffic](/assets/image/traffic.png)](https://sites.google.com/berkeley.edu/mixedtrafficplus/home)  
 
+### T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation
+[![T2V](/assets/image/T2V.png)](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) 
 
 
 ## Course Projects
-  
+
+### MPM Snow Simulation
+[![Snow](/assets/image/snow.png)](https://github.com/xiaochy/CS184-Final-Project) 
+
+### Fine-Tuning Stable Diffusion Model for Emojis Generation from Text
+[![Snow](/assets/image/emoji.png)](https://github.com/woodenbirds/cs182) 
