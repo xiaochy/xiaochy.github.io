@@ -1,6 +1,9 @@
 👋 Hi there! My name is Chuyang Xiao. I am a senior undergraduate student majoring in computer science at **ShanghaiTech University**. Currently, I have joined the 4DV Lab, under the mentorship of Prof. Yuexin Ma. During 2023-2024 academic year, I was an exchange student at **University of California Berkeley**.
 I will be joining the **MSR(Master of Science in Robotics)** program at **Carnegie Mellon University** in Fall 2025. 🌻
 
+## Research Interests:
+- **Robotics, Embodied AI, Computer Vision**
+
 ## News:
 - **[Jan.2025]** One paper has been accepted by 2025 ICRA conference.🤖
 - **[Dec.2024]** Triple Excellence Student 2023-2024 of ShanghaiTech Unversity 🌸
