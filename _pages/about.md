@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <p><span class="anchor" id="about-me"></span></p>
 <p>
-👋 Hi there! My name is <a class="red-label">Chuyang Xiao</a>. I am a senior undergraduate student majoring in computer science at **ShanghaiTech University**. Currently, I have joined the 4DV Lab, under the mentorship of <a href="http://yuexinma.me/">Prof. Yuexin Ma</a>. During 2023-2024 academic year, I was an exchange student at **University of California Berkeley**.
-I will be joining the **MSR(Master of Science in Robotics)** program at **Carnegie Mellon University** in Fall 2025. 🌻
+👋 Hi there! My name is <a class="red-label">Chuyang Xiao</a>. I am a senior undergraduate student majoring in computer science at <b>ShanghaiTech University</b>. Currently, I have joined the 4DV Lab, under the mentorship of <a href="http://yuexinma.me/">Prof. Yuexin Ma</a>. During 2023-2024 academic year, I was an exchange student at <b>University of California Berkeley</b>.
+I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie Mellon University</b> in Fall 2025. 🌻
 </p>
 <p>
   
