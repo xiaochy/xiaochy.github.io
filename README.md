@@ -1,44 +1,72 @@
-👋 Hi there! My name is Chuyang Xiao. I am a senior undergraduate student majoring in computer science at **ShanghaiTech University**. Currently, I have joined the 4DV Lab, under the mentorship of Prof. Yuexin Ma. During 2023-2024 academic year, I was an exchange student at **University of California Berkeley**.
-I will be joining the **MSR(Master of Science in Robotics)** program at **Carnegie Mellon University** in Fall 2025. 🌻
 
-## Research Interests:
-- **Robotics, Embodied AI, Computer Vision**
+<h1 align="center">
+AcadHomepage
+</h1>
 
-## News:
-- **[Jan.2025]** One paper has been accepted by 2025 ICRA conference.🤖
-- **[Dec.2024]** Triple Excellence Student 2023-2024 of ShanghaiTech Unversity 🌸
-- **[Oct.2024]** I was awarded National Scholarship (TOP 0.4% Student in China) for the 2023-2024 Academic Year.🎉 🙏
-- **[Jun.2024]** I was awarded by ShanghaiTech International Exchange Program Scholarship, received 100,000 RMB (≈13,700 USD).💰
-- **[Apr.2024]** One paper has been accepted by 2024 CVPR workshop.🌹
-- **[Dec.2023]** Merit Student 2022-2023 of ShanghaiTech Unversity 🌸
+<div align="center">
 
-## Research Experience
-- **[Oct.2024 - Feb.2025]** Created the first dataset and evaluation benchmark for dynamic grasping with a dexterous hand, and implemented our own approach combining diffusion models and other models, such as GOAL, for the task. 🦾
-- **[May.2024 - Sep.2024]** Developed a model-free reinforcement learning (RL) method to optimize traffic flow in intersections with varying topologies. Created a new benchmark for mixed traffic research.🚗
-- **[Jun.2024 - Jul.2024]** Trained image classification tasks using a Mixture of Experts (MoE) as a visual encoder for robotic manipulation tasks.🤖
-- **[Mar.2024 - Apr.2024]** Assessed current text-to-video models with a focus on their handling of temporal input data.⌚️
-- **[Apr.2023 - Jun.2023]** Built multi-modal dataloaders for training a human-position estimation model. Conducted parameter fitting for mesh models.
+[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+</div>
 
-## Pubilications
-### Optimizing Efficiency of Mixed Traffic through Reinforcement Learning: A Topology-Independent Approach and Benchmark
-[![Traffic](/assets/image/traffic.png)](https://sites.google.com/berkeley.edu/mixedtrafficplus/home)  
+<p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
-### T2VBench: Benchmarking Temporal Dynamics for Text-to-Video Generation
-[![T2V](/assets/image/T2V.png)](https://openaccess.thecvf.com/content/CVPR2024W/EvGenFM/papers/Ji_T2VBench_Benchmarking_Temporal_Dynamics_for_Text-to-Video_Generation_CVPRW_2024_paper.pdf) 
+<p align="center">
+    <br>
+    <img src="docs/screenshot.png" width="100%"/>
+    <br>
+</p>
 
+Some examples:
+- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
+- [Personal Homepage of the author](https://rayeren.github.io/)
 
-## Course Projects
+## Key Features
+- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
+- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
+- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
+- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
 
-### MPM Snow Simulation
-[![Snow](/assets/image/snow.png)](https://github.com/xiaochy/CS184-Final-Project) 
+## Quick Start
 
-### Fine-Tuning Stable Diffusion Model for Emojis Generation from Text
-[![Snow](/assets/image/emoji.png)](https://github.com/woodenbirds/cs182) 
+1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
+1. Configure the google scholar citation crawler:
+    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
+    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
+1. Modify the configuration of your homepage `_config.yml`:
+    1. `title`: the title of your homepage
+    1. `description`: the description of your homepage
+    1. `repository`: USER_NAME/REPO_NAME  
+    1. `google_analytics_id` (optional): google analytics ID
+    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
+    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
+    1. More configuration details are described in the comments.
+1. Add your homepage content in `_pages/about.md`.
+    1. You can use html+markdown syntax just same as jekyll.
+    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+        ```html
+        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        ``` 
+        > Q: How to get the google scholar paper ID?   
+        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. Your page will be published at `https://USERNAME.github.io`.
 
+## Debug Locally
 
-## Hobbies
-I enjoy a variety of activities, including dancing💃, swimming🏊, playing the piano🎹, playing the flute🪈, and staying active through exercising🏋️. 
+1. Clone your REPO to local using `git clone`.
+1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
+1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Open http://127.0.0.1:4000 in your browser.
+1. If you change the source code of the website, the livereload server will automatically refresh.
+1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
-In my spare time, I also love to travel🌍 and explore new places!
+# Acknowledges
 
-By the way, I’m also a fan of discovering different desserts🍰 and cozy cafes☕️!
+- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.

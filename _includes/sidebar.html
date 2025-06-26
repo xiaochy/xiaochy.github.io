@@ -1,0 +1,56 @@
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+<div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include
+  author-profile.html %}{% endif %} {% if page.sidebar %} {% for s in
+  page.sidebar %} {% if s.image %}
+  <img
+    src="{{ s.image }}"
+    alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}"
+  />
+  {% endif %} {% if s.title %}
+  <h3>{{ s.title }}</h3>
+  {% endif %} {% if s.text %}{{ s.text | markdownify }}{% endif %} {% endfor %}
+  {% endif %}
+  <h1>🔥 News</h1>
+
+  <ul class="news">
+    <li>
+      <p>
+        <a class="red-label">2025.06</a>&nbsp; DexH2R was accepted by ICCV 2025! 🎉
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <a class="red-label">2025.01</a>&nbsp; MixedTrafficPlus was accepted by ICRA 2025! 🎉
+      </p>
+    </li>
+    
+    <li>
+      <p>
+        <a class="red-label">2024.04</a> &nbsp; T2VBench was accepted by CVPR 2024 Workshop! 🎉
+      </p>
+    </li>
+
+    <!-- <li>
+      <p>
+        <a class="red-label">2023.05</a>: &nbsp; I was awarded 2rd Prize in
+        Challenge Cup at Tsinghua 🎉
+      </p>
+    </li>
+    <li>
+      <p>
+        <a class="red-label">2023.05</a>: &nbsp; I joined the start-up of
+        <a href="https://ai-anywhere.com/">AI-anywhere</a>. Hope to contribute
+        more!
+      </p>
+    </li>
+    <li>
+      <p>
+        <a class="red-label">2022.06</a>: &nbsp; I joined PCG group in
+        Tsinghua as a Undergrad. Research Assistant.
+      </p>
+    </li> -->
+  </ul>
+</div>
+{% endif %}
