@@ -59,7 +59,7 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
   <div class="paper-box-image">
     <div>
       <div class="badge-coming"><b>ICCV 2025</b></div>
-      <img src="images/DexH2R.png" alt="sym" width="100%" />
+      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
@@ -82,7 +82,7 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>ICRA 2025</b></div>
-      <img src="images/T2V.png" alt="sym" width="100%" />
+      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
@@ -106,7 +106,7 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>CVPRW 2024</b></div>
-      <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
+      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
