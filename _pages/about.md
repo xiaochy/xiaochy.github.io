@@ -59,7 +59,7 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
   <div class="paper-box-image">
     <div>
       <div class="badge-coming"><b>ICCV 2025</b></div>
-      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
+      <img src="images/DexH2R.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
