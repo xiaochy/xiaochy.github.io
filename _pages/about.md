@@ -45,7 +45,7 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
       <a style="text-decoration: underline;" href="https://freq-policy.github.io/">FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens</a>
     </p>
     <p>
-      <b>Yiming Zhong, Yumeng Liu, <b>Chuyang Xiao</b>, Zemin Yang, Youzhuo Wang, Yufei Zhu, Yujing Sun, Xinge Zhu, Yuexin Ma†
+      Yiming Zhong, Yumeng Liu, <b>Chuyang Xiao</b>, Zemin Yang, Youzhuo Wang, Yufei Zhu, Yujing Sun, Xinge Zhu, Yuexin Ma†
     </p>
     <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
     <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
@@ -70,10 +70,10 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
       Youzhuo Wang*, Jiayi Ye*, <b>Chuyang Xiao</b>, Yiming Zhong, Heng Tao, Hang Yu, Yumeng Liu, Jingyi Yu, Yuexin Ma†
     </p>
     <p>This paper introduces DexH2R, a real-world dataset for human-to-robot handovers featuring dexterous motions, diverse objects, and rich annotations. Using teleoperation, it captures natural human-like behaviors for robotic learning. We also propose DynamicGrasp, a handover solution, and benchmark state-of-the-art methods, providing key insights for future work. </p>
-    <a href="" class="pdf-link" target="_blank">PDF</a>
-    <a href="" class="paper-box-link" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://arxiv.org/pdf/2506.01583" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://arxiv.org/pdf/2506.01583" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
 
