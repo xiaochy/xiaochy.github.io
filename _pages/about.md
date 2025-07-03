@@ -48,10 +48,10 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
       Yiming Zhong, Yumeng Liu, <b>Chuyang Xiao</b>, Zemin Yang, Youzhuo Wang, Yufei Zhu, Yujing Sun, Xinge Zhu, Yuexin Ma†
     </p>
     <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
-    <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
-    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.23152" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://dexh2r.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://dexh2r.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
 
@@ -146,6 +146,15 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
 
   <li>
     <a class="red-label">12/2023</a> Merit Student 2022-2023 of ShanghaiTech Unversity  <b>(Top 10%)</b>
+  </li>
+
+</ul>
+
+# 🌲 Experience
+
+<ul>
+  <li>
+    <a class="red-label">02/2025 ～ 06/2025</a> Teaching Assistant for CS182 "Introduction to Machine Learning" at ShanghaiTech University
   </li>
 
 </ul>
