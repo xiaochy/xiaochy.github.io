@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <p><span class="anchor" id="about-me"></span></p>
 <p>
-👋 Hi there! My name is <a class="red-label">Chuyang Xiao</a>. I am a senior undergraduate student majoring in computer science at <b>ShanghaiTech University</b>. Currently, I have joined the 4DV Lab, under the mentorship of <a href="http://yuexinma.me/">Prof. Yuexin Ma</a>. During 2023-2024 academic year, I was an exchange student at <b>University of California Berkeley</b>.
-I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie Mellon University</b> in Fall 2025. 🌻
+👋 Hi there! My name is <a class="red-label">Chuyang(Vera) Xiao</a>. I am a first-year Master of Science in Robotics (MSR) student at <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. Currently, I have joined the <a href="https://r-pad.github.io/">RPAD Lab</a>, under the mentorship of <a href="https://davheld.github.io/">Prof. David Held</a>. 
+
+Previously, I finished my undergraduate study majoring in Computer Science at <a href="https://www.shanghaitech.edu.cn/eng/">ShanghaiTech University</a> where I was fortunate to join the <b>4DV Lab</b> and work with <a href="http://yuexinma.me/">Prof. Yuexin Ma</a>. During 2023-2024 academic year, I was an exchange student at <a href="https://www.berkeley.edu/">University of California Berkeley</a>.
 </p>
 <p>
   
@@ -36,7 +37,7 @@ I will be joining the MSR(Master of Science in Robotics) program at <b>Carnegie 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-coming"><b>Under review</b></div>
+      <div class="badge-coming"><b>NeurIPS 2025</b></div>
       <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
