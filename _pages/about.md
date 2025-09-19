@@ -37,7 +37,7 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-coming"><b>NeurIPS 2025</b></div>
+      <div class="badge-IMWUT"><b>NeurIPS 2025</b></div>
       <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
@@ -59,7 +59,8 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-coming"><b>ICCV 2025</b></div>
+      <!-- <div class="badge-coming"><b>ICCV 2025</b></div> -->
+      <div class="badge-IMWUT"><b>ICCV 2025</b></div>
       <img src="images/DexH2R.png" alt="sym" width="100%" />
     </div>
   </div>
