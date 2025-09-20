@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuyang Xiao"
+title                    : "Chuyang(Vera) Xiao"
 description              : ""
 repository               : "xiaochy/xiaochy.github.io/"
 google_scholar_stats_use_cdn : true
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chuyang(Vera) Xiao"
-  avatar           : "images/avatar.jpg"
-  bio              : "ShanghaiTech University"
-  location         : "ShangHai, China"
+  avatar           : "images/vxiao.jpg"
+  bio              : "Carnegie Mellon University"
+  location         : "Pittsburgh, PA, USA"
   # employer         : "4DV Lab"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=z9-vvPkAAAAJ&view_op=list_works&gmla=AH8HC4zliEIUOxa6-rUIXX808udQjMeL-4V-txtRUhIzWB06_QRbga47kR9tQ08hZC2R8doqvj54NoWFLazq16Dkj_S1XwTgdCDGlQ1L8d0"
-  email            : "xiaochy@shanghaitech.edu.cn"
+  email            : "vxiao@andrew.cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
