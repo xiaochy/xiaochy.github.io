@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <p><span class="anchor" id="about-me"></span></p>
 <p>
-👋 Hi there! My name is <a class="red-label">Chuyang(Vera) Xiao</a>. I am a first-year Master of Science in Robotics (MSR) student at <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. Currently, I have joined the <a href="https://r-pad.github.io/">RPAD Lab</a>, under the mentorship of <a href="https://davheld.github.io/">Prof. David Held</a>. 
+👋 Hi there! My name is <a class="red-label">Chuyang(Vera) Xiao</a>. I am a second-year Master of Science in Robotics (MSR) student at <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. Currently, I have joined the <a href="https://r-pad.github.io/">RPAD Lab</a>, under the mentorship of <a href="https://davheld.github.io/">Prof. David Held</a>. 
 
 Previously, I finished my undergraduate study majoring in Computer Science at <a href="https://www.shanghaitech.edu.cn/eng/">ShanghaiTech University</a> where I was fortunate to join the <b>4DV Lab</b> and work with <a href="http://yuexinma.me/">Prof. Yuexin Ma</a>. During 2023-2024 academic year, I was an exchange student at <a href="https://www.berkeley.edu/">University of California Berkeley</a>.
 </p>
@@ -33,6 +33,26 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 
 <h1 id="-publications">📝 Publications</h1>
 <p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author</p>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>CoRL 2026</b></div>
+      <img src="images/H2RBench.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://h2rbench.github.io/">H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer</a>
+    </p>
+    <p>
+      <b>Chuyang Xiao*</b>, Haotian Zhan*, Sriram Krishna, Peilin Meng, Muhammad Zubair Irshad, Sergey Zakharov, David Held
+    </p>
+    <p>H2RBench is a standardized Real2Sim benchmark for evaluating human-to-robot (H2R) transfer methods across four manipulation tasks reconstructed from real-world scenes, enabling systematic analysis of human-data scaling and sim-to-real correlation (Pearson r = 0.89).</p>
+    <a href="https://h2rbench.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
