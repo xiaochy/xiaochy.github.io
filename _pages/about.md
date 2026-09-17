@@ -72,6 +72,7 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
     <p>Comparing human-to-robot (H2R) transfer methods is challenging since existing approaches are evaluated under different task suites, scene layouts, and amounts of robot supervision. H2RBench addresses this with a standardized Real2Sim benchmark built on real human video demonstrations and simulated robot demonstrations across four manipulation tasks reconstructed from real-world scenes. We systematically characterize how representative H2R methods scale with human demonstration data, and show that simulation performance is broadly predictive of real-world performance, with an overall Pearson correlation of r = 0.89, Spearman correlation of ρ = 0.85, and Mean Maximum Rank Violation (MMRV) of 0.06 across method-task configurations.</p>
     <a href="https://h2rbench.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
+    <a href="https://github.com/xiaochy/H2RBench" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
 
