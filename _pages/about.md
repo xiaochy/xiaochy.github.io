@@ -37,6 +37,27 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge-IMWUT"><b>Under Review</b></div>
+      <img src="images/JAMB.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://jam-bimanual.github.io/">JAMB: Joint Action–Motion Diffusion for Bimanual Manipulation</a>
+    </p>
+    <p>
+      <b>Chuyang Xiao*</b>, Peilin Meng*, David Held†
+    </p>
+    <p>Coordinated bimanual manipulation is challenging because the motion of either arm can alter the shared 3D scene and thereby affect the other arm, yet most diffusion policies generate actions without explicitly modeling these future geometric consequences. We propose JAMB, a diffusion policy that jointly denoises bimanual actions and future 3D point tracks within a shared Transformer, grounded in a shared spatiotemporal coordinate system so that action and motion hypotheses mutually refine each other during denoising. JAMB averages 83.4% success across 16 bimanual tasks on RoboTwin 2.0 and reaches 85.6% on real-robot rollouts, outperforming an auxiliary geometry-prediction baseline (GAP) and an action-only baseline (DP3) by 21.2 and 50 points respectively, with the largest gains on out-of-distribution Hard scenes (17.9% vs. at most 4.3% for baselines).</p>
+    <a href="https://jam-bimanual.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
+    <a href="https://github.com/xiaochy/JAMB" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge-IMWUT"><b>CoRL 2026</b></div>
       <img src="images/H2RBench.png" alt="sym" width="100%" />
     </div>
