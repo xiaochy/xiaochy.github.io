@@ -48,7 +48,7 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
     <p>
       <b>Chuyang Xiao*</b>, Peilin Meng*, David Held†
     </p>
-    <p>Coordinated bimanual manipulation is challenging because the motion of either arm can alter the shared 3D scene and thereby affect the other arm, yet most diffusion policies generate actions without explicitly modeling these future geometric consequences. We propose JAMB, a diffusion policy that jointly denoises bimanual actions and future 3D point tracks within a shared Transformer, grounded in a shared spatiotemporal coordinate system so that action and motion hypotheses mutually refine each other during denoising. JAMB averages 83.4% success across 16 bimanual tasks on RoboTwin 2.0 and reaches 85.6% on real-robot rollouts, outperforming an auxiliary geometry-prediction baseline (GAP) and an action-only baseline (DP3) by 21.2 and 50 points respectively, with the largest gains on out-of-distribution Hard scenes (17.9% vs. at most 4.3% for baselines).</p>
+    <p>JAMB is a diffusion policy that jointly denoises bimanual actions and future 3D point tracks within a shared Transformer, letting action and motion hypotheses mutually refine each other during denoising. It averages 83.4% success across 16 bimanual tasks on RoboTwin 2.0 and 85.6% on real-robot rollouts, outperforming GAP and DP3 by 21.2 and 50 points respectively, with its largest gains on out-of-distribution Hard scenes.</p>
     <a href="https://jam-bimanual.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/xiaochy/JAMB" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
@@ -69,7 +69,7 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
     <p>
       <b>Chuyang Xiao*</b>, Haotian Zhan*, Sriram Krishna, Peilin Meng, Muhammad Zubair Irshad, Sergey Zakharov, David Held†
     </p>
-    <p>Comparing human-to-robot (H2R) transfer methods is challenging since existing approaches are evaluated under different task suites, scene layouts, and amounts of robot supervision. H2RBench addresses this with a standardized Real2Sim benchmark built on real human video demonstrations and simulated robot demonstrations across four manipulation tasks reconstructed from real-world scenes. We systematically characterize how representative H2R methods scale with human demonstration data, and show that simulation performance is broadly predictive of real-world performance, with an overall Pearson correlation of r = 0.89, Spearman correlation of ρ = 0.85, and Mean Maximum Rank Violation (MMRV) of 0.06 across method-task configurations.</p>
+    <p>H2RBench is a standardized Real2Sim benchmark for evaluating human-to-robot (H2R) transfer methods across four manipulation tasks reconstructed from real-world scenes. It characterizes how methods scale with human demonstration data and shows that simulation performance is strongly predictive of real-world performance (Pearson r = 0.89, Spearman ρ = 0.85, MMRV = 0.06).</p>
     <a href="https://h2rbench.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/xiaochy/H2RBench" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
