@@ -205,6 +205,19 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 
 </ul>
 
+# 🤝 Academic Service
+
+<ul>
+  <li>
+    <a class="red-label">2026</a> Reviewer: CoRL 2026
+  </li>
+
+  <li>
+    <a class="red-label">2026</a> Volunteer: IROS 2026
+  </li>
+
+</ul>
+
 # 📖 Educations
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cmu.png' alt="sym" width="95%"></div></div>
