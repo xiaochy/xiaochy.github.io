@@ -64,13 +64,13 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
   </div>
   <div class="paper-box-text">
     <p>
-      <a style="text-decoration: underline;" href="https://h2rbench.github.io/">H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer</a>
+      <a style="text-decoration: underline;" href="https://davidz2851.github.io/h2rbench.github.io/">H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer</a>
     </p>
     <p>
       <b>Chuyang Xiao*</b>, Haotian Zhan*, Sriram Krishna, Peilin Meng, Muhammad Zubair Irshad, Sergey Zakharov, David Held†
     </p>
     <p>H2RBench is a standardized Real2Sim benchmark for evaluating human-to-robot (H2R) transfer methods across four manipulation tasks reconstructed from real-world scenes. It characterizes how methods scale with human demonstration data and shows that simulation performance is strongly predictive of real-world performance (Pearson r = 0.89, Spearman ρ = 0.85, MMRV = 0.06).</p>
-    <a href="https://h2rbench.github.io/" class="paper-box-link" target="_blank">
+    <a href="https://davidz2851.github.io/h2rbench.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/xiaochy/H2RBench" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
