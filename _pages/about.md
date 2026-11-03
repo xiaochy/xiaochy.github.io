@@ -29,20 +29,6 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 <p>
 My research focuses on <b>robot learning for generalizable and robust manipulation</b>. I am interested in learning transferable skills from human and robot demonstrations, modeling the physical consequences of robot actions, and using predicted outcomes to improve policy decision-making — so that robots can anticipate failures and adapt to complex, dynamic environments.
 </p>
-<ul>
-  <li>
-    <b>Learning from Human Demonstrations &amp; Cross-Embodiment Transfer</b> — acquiring manipulation skills from human videos and robot data that transfer across tasks, scenes, and embodiments.
-  </li>
-  <li>
-    <b>Action-Conditioned World Models &amp; Physical Dynamics</b> — predicting the physical outcomes of actions, with a focus on 3D motion and object interaction.
-  </li>
-  <li>
-    <b>Outcome-Aware Policy Learning &amp; Decision-Making</b> — using predicted outcomes, reward feedback, and failure signals to improve policies, through test-time action selection and reinforcement learning post-training.
-  </li>
-</ul>
-<p>
-Together: <b>learn</b> transferable behaviors, <b>predict</b> their physical consequences, and <b>improve</b> how robots decide.
-</p>
 
 
 <h1 id="-publications">📝 Publications</h1>
