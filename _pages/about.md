@@ -27,7 +27,10 @@ Previously, I finished my undergraduate study majoring in Computer Science at <a
 
 <h1 id="-research-interests">🔭 Research Interests</h1>
 <p>
-My research focuses on <b>robot learning for generalizable and robust manipulation</b>. I am interested in learning transferable skills from human and robot demonstrations, modeling the physical consequences of robot actions, and using predicted outcomes to improve policy decision-making — so that robots can anticipate failures and adapt to complex, dynamic environments.
+My research focuses on <b>robot learning for generalizable and robust manipulation</b>: learning transferable skills from human and robot demonstrations, modeling the physical consequences of actions, and using predicted outcomes to improve policy decisions.
+</p>
+<p>
+My long-term goal is to build systems where prediction, evaluation, and policy improvement form a <b>continuous feedback loop</b>, so that robots keep refining their behavior and adapt efficiently to unfamiliar tasks and embodiments.
 </p>
 
 
